@@ -31,5 +31,17 @@ Model performance is evaluated using the following key metrics:
 * **Precision and Recall**: These metrics provide insight into the correctness of positive predictions and the model's ability to find all positive instances, respectively.
 * **Confusion Matrix**: A visualization that highlights class-wise performance and helps identify misclassifications.
 
+## Results
+
+<img width="1920" height="1100" alt="image" src="https://github.com/user-attachments/assets/424d7c9f-bca7-47a3-aebc-0f971090ed5b" />
+
+
+<img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/5f28169f-a37e-4597-b5e4-7bcb84bbb318" />
+
+
+<img width="2250" height="1500" alt="image" src="https://github.com/user-attachments/assets/d03a0fd6-a8c5-45c5-9058-c324d45d370b" />
+
+
+
 
 
