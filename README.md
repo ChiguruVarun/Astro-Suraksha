@@ -7,8 +7,10 @@ This project addresses the Duality AI Space Station Challenge, focusing on train
 ## Getting Started
 
 ### Prerequisites
-* Anaconda
-* The provided Hackathon dataset
+* The provided Hackathon dataset.
+* Python 3.10.0: The specific Python version under which the project was developed and tested.
+* PyTorch (torch-2.8.0+cpu): The machine learning framework used by YOLOv8.
+
 
 ### Installation and Setup
 1.  Create a Falcon account to access the dataset and tools.
@@ -27,4 +29,5 @@ Model performance is evaluated using the following key metrics:
 * **mAP@0.5**: This is the primary metric for the hackathon and measures the model's accuracy in detecting and classifying objects with a 50% Intersection over Union (IoU) threshold.
 * **Precision and Recall**: These metrics provide insight into the correctness of positive predictions and the model's ability to find all positive instances, respectively.
 * **Confusion Matrix**: A visualization that highlights class-wise performance and helps identify misclassifications.
+
 
