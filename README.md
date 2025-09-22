@@ -18,9 +18,10 @@ This project addresses the Duality AI Space Station Challenge, focusing on train
 3.  Navigate to the `ENV_SETUP` subfolder and run `setup_env.bat` (Windows) or an equivalent `setup_env.sh` script (Mac/Linux) to create the `EDU` environment with all necessary dependencies.
 
 ### Training the Model
-1.  Open an Anaconda Prompt or terminal and navigate to the training scripts directory.
-2.  Activate the environment by running `conda activate EDU.
-3. Start training with the command: `python train.py`.
+1.  To train the model, follow a standard workflow using your system's terminal or command line interface.
+2.  Navigate to the project directory: First, open a new terminal window and change your current directory to the folder containing your training scripts.
+    Activate the project environment: Run the command to activate the virtual environment you created for this project. This step ensures all the necessary             libraries and dependencies are loaded correctly.
+3.  Start the training process: Once the environment is active, execute the training script using the Python interpreter. The command python train.py will initiate     the model training.
 
 ## Evaluation
 
@@ -29,5 +30,6 @@ Model performance is evaluated using the following key metrics:
 * **mAP@0.5**: This is the primary metric for the hackathon and measures the model's accuracy in detecting and classifying objects with a 50% Intersection over Union (IoU) threshold.
 * **Precision and Recall**: These metrics provide insight into the correctness of positive predictions and the model's ability to find all positive instances, respectively.
 * **Confusion Matrix**: A visualization that highlights class-wise performance and helps identify misclassifications.
+
 
 
