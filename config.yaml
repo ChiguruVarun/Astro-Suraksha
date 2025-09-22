@@ -1,0 +1,13 @@
+# The path to your dataset's parent directory
+# Example: D:/Hackathon/data/hackathon2_train_1/
+path: D:/Hackathon/data/hackathon2_train_1/train_1
+
+# The relative paths to the image directories
+train: D:/Hackathon/data/hackathon2_train_1/train_1
+val: D:/Hackathon/data/Hackathon2_test1/test1
+
+# The number of classes
+nc: 7
+
+# The class names in the correct order
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']
