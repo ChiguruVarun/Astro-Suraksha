@@ -5,13 +5,13 @@ We would like to thank the following individuals for their contributions to this
 * **Varun**
     * GitHub Username: `ChiguruVarun`
 
+* **Shivaraj**
+    * GitHub Username: `G-Shivaraj`
+ 
 * **Taufeeq**
     * GitHub Username: `TaufeeqAhmad933`
 
-* **Shivaraj**
-    * GitHub Username: `G-Shivaraj`
-
-* **sub**
+* **Subbarayudu**
     * GitHub Username: `sub`
 
 ## Contributors / Reviewers
