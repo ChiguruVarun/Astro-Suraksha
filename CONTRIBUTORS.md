@@ -12,7 +12,7 @@ We would like to thank the following individuals for their contributions to this
     * GitHub Username: `TaufeeqAhmad933`
 
 * **Subbarayudu**
-    * GitHub Username: `sub`
+    * GitHub Username: `Subbu46`
 
 ## Contributors / Reviewers
 
